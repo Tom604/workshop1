@@ -1,3 +1,6 @@
+# Het output bestand niet pushen. Zou je zelf moeten genereren.
+postcodeInsert.sql
+
 # Hieronder alle bestanden van de java template (allen behouden?)
   # Compiled class file
   *.class
@@ -27,3 +30,4 @@
 /Netbeans/build/
 /Netbeans/nbproject/
 /Netbeans/test/
+/PostcodeGenerator/target/
