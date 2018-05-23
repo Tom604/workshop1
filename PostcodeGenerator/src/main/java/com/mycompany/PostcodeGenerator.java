@@ -48,7 +48,7 @@ public class PostcodeGenerator {
             
             
         } catch (FileNotFoundException ex) {
-            System.out.println("File not found exception");
+            System.out.println("File not found exception, das jammer");
         }
 
     }
