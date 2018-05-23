@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-//Weer een wijziging
+//Weer een wijziging, heel fijn
 package com.mycompany;
 
 import java.io.*;
